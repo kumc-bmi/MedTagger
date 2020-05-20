@@ -1,6 +1,7 @@
 ./context/contextRule.txt
 ./regexp/resources_regexp_reABDOMINALPAIN.txt
 ./regexp/resources_regexp_reAPPETITELOSS.txt
+./regexp/resources_regexp_reCOVID.txt
 ./regexp/resources_regexp_reDIARRHEA.txt
 ./regexp/resources_regexp_reDRYCOUGH.txt
 ./regexp/resources_regexp_reDYSPNEA.txt
@@ -16,6 +17,13 @@
 ./regexp/resources_regexp_reNASALCONGESTION.txt
 ./regexp/resources_regexp_rePATCHYINFILTRATES.txt
 ./regexp/resources_regexp_rePROLONGEDPROTOTHROMBIN.txt
+./regexp/resources_regexp_reSEIZURE.txt
+./regexp/resources_regexp_reSMELLIMPAIRMENT.txt
 ./regexp/resources_regexp_reSORETHROAT.txt
+./regexp/resources_regexp_reTASTEIMPAIRMENT.txt
+./regexp/resources_regexp_reVENTILATION.txt
+./regexp/resources_regexp_reVISIONIMPAIRMENT.txt
+./regexp/resources_regexp_reDIZZINESS.txt
+./regexp/resources_regexp_reVAPING.txt
 ./rules/resources_rules_matchrules.txt
 ./used_resources.txt
